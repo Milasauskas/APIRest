@@ -57,4 +57,16 @@ Criando os diretórios cima, vamos fazer com ele eles virem módulos, para eles 
 vamos criar um arquivo __init__.py em cada diretório.
 Também vamos criar uma arquivo com o nome run.py, para executarmos nossa API.
 
+Após a criação de toda a estrutura que fizemos iniciamos nosso desenvolvimento, que seria:
+
+API capaz de listar todas as raças
+API capaz de listar as informações de uma raça
+API capaz de a partir de um temperamento listar as raças
+API capaz de a partir de uma origem listar as raças 
+
+Após a criação das APIs, temos que também ter os Json no postamn, para conseguirmos realizar as consultas das API,
+inserir dados na APIS, excluir  e conseguir realizar as manupulações dos dados.
+
+
+
 
